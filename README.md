@@ -18,7 +18,7 @@ Mediante el empleo del ratón se van haciendo los cambios de color, así como el
 +**Cambio de tamaño:** Tanto la goma como el pincel son afectados por el cambio de tamaño.
 +**Nueva hoja:** Al clicar en este boton, se limpia el lienzo.
 # Referencias
-***[Iconos](www.flaticon.com)**
-***[Reference](https://p5js.org/reference/)**
++**[Iconos](www.flaticon.com)**
++**[Reference](https://p5js.org/reference/)**
 
-*[Si quieres probarlo...](https://editor.p5js.org/jeycovo/full/uhSGrSH6J)**
++[Si quieres probarlo...](https://editor.p5js.org/jeycovo/full/uhSGrSH6J)**
