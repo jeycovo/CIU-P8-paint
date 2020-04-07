@@ -21,4 +21,4 @@ Mediante el empleo del ratón se van haciendo los cambios de color, así como el
 +**[Iconos](www.flaticon.com)**
 +**[Reference](https://p5js.org/reference/)**
 
-+[Si quieres probarlo...](https://editor.p5js.org/jeycovo/full/uhSGrSH6J)**
++[Si quieres probarlo...](https://editor.p5js.org/jeycovo/full/uhSGrSH6J)
